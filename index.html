@@ -29,30 +29,25 @@ featured_image: /images/demo/home.jpg
 			{% for project in site.projects reversed %}
 
 			<article class="post">
-
-				<div class="post__image-wrap">
-					<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
-				</div>
-
 				<div class="post__content-wrap">
-					<div class="post__content">
-						<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-						<p class="post__subtitle">{{ project.subtitle }}</p>
-						<p class="post__description">{{ project.description }}</p>
-					</div>
+					<h2 class="post__title">Test</h2>
+					<p class="post__subtitle">Subtitle</p>
+					<p class="post__description">Test</p>
 				</div>
-
-		</article>
+			</article>
+			<article class="post">
+				<div class="post__content-wrap">
+					<h2 class="post__title">Test2</h2>
+					<p class="post__description">Test</p>
+					<ul>
+						<li>Test</li>
+						<li>Test</li>
+					</ul>
+				</div>
+			</article>
 
 		{% endfor %}
 
 	</div>
 
 </section>
-
-## Test Section 
-
-Testing 
-
-* Test 
-* Test 
