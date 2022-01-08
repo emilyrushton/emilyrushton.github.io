@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Emily Rushton
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -58,7 +58,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/emily-rushton/'
 
 color_settings:
   background_color: '#ffffff'
