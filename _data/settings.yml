@@ -8,9 +8,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Resume'
       url: '/'
-    - title: 'Blog'
+    - title: 'Work Samples'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Technical writer, leader, and user advocate focused on software documentation
 
 hero_settings:
   overlay_opacity: 0.8
