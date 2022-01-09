@@ -12,12 +12,6 @@ body {
    background: #F1F2F6;
 }
 
-h1 {
-   text-align: center;
-   font-weight: 300;
-   color: #777
-}
-
 h1 span {
    font-weight: 600;
 }
@@ -34,7 +28,7 @@ h1 span {
    content: '';
    position: absolute;
    top: 0;
-   left: 50%;
+   left: 0%;
    margin-left: -1px;
    width: 2px;
    height: 100%;
@@ -82,20 +76,14 @@ h1 span {
    color: #666
 }
 
-.timeline-content h3 {
-   margin-top: 5px;
-   margin-bottom: 5px;
-   font-size: 25px;
-   font-weight: 500
-}
 
 .timeline-content span {
-   font-size: 15px;
+   font-size: 35px;
    color: #a4a4a4;
 }
 
 .timeline-content p {
-   font-size: 14px;
+   font-size: 25px;
    line-height: 1.5em;
    word-spacing: 1px;
    color: #888;
