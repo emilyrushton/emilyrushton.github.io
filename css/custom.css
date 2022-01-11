@@ -34,6 +34,10 @@ h1 span {
    z-index: 1
 }
 
+.timeline-content:last-child {
+   margin-bottom: 0px;
+}
+
 .timeline-block {
    display: -webkit-box;
    display: -webkit-flex;
@@ -71,7 +75,6 @@ h1 span {
    color: #666;
    margin-bottom: 15px;
 }
-
 
 .timeline-content span {
    font-size: 20px;
