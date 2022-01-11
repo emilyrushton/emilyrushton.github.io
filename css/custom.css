@@ -27,8 +27,7 @@ h1 span {
    content: '';
    position: absolute;
    top: 0;
-   left: 0%;
-   margin-left: -1px;
+   left: 1%;
    width: 2px;
    height: 100%;
    background: #CCD1D9;
