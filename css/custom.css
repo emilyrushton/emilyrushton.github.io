@@ -19,7 +19,6 @@ h1 span {
 .timeline-container {
    width: 80%;
    padding: 50px 0;
-   margin: 50px auto;
    position: relative;
    overflow: hidden;
 }
@@ -37,9 +36,6 @@ h1 span {
 }
 
 .timeline-block {
-   width: -webkit-calc(50% + 8px);
-   width: -moz-calc(50% + 8px);
-   width: calc(50% + 8px);
    display: -webkit-box;
    display: -webkit-flex;
    display: -moz-box;
@@ -78,12 +74,12 @@ h1 span {
 
 
 .timeline-content span {
-   font-size: 35px;
+   font-size: 25px;
    color: #a4a4a4;
 }
 
 .timeline-content p {
-   font-size: 25px;
+   font-size: 16px;
    line-height: 1.5em;
    word-spacing: 1px;
    color: #888;
