@@ -48,6 +48,7 @@ h1 span {
    -moz-box-pack: justify;
    justify-content: space-between;
    clear: both;
+   padding-bottom: 15px;
 }
 
 .timeline-block-right {
@@ -73,7 +74,6 @@ h1 span {
    width: 95%;
    padding: 0 15px;
    color: #666;
-   margin-bottom: 15px;
 }
 
 .timeline-content span {
