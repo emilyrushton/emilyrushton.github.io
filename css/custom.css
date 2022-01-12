@@ -27,10 +27,6 @@ h1 span {
    z-index: 1
 }
 
-.timeline-container:last-child {
-   margin-bottom: 0px;
-}
-
 .timeline-block {
    display: -webkit-box;
    display: -webkit-flex;
@@ -42,6 +38,10 @@ h1 span {
    justify-content: space-between;
    clear: both;
    margin-bottom: 25px;
+}
+
+.timeline-container:last-child .timeline-block {
+   margin-bottom: 0px;
 }
 
 .timeline-block-right {
