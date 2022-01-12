@@ -37,12 +37,8 @@ h1 span {
    -moz-box-pack: justify;
    justify-content: space-between;
    clear: both;
-   margin-bottom: 25px;
 }
 
-.timeline-container:last-child .timeline-block {
-   margin-bottom: 0px;
-}
 
 .timeline-block-right {
    float: right;
