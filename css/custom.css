@@ -73,11 +73,13 @@ h1 span {
 .timeline-content {
    width: 95%;
    padding: 0 15px;
-   color: #666;
 }
 
 .timeline-content span {
    font-size: 20px;
+}
+
+.date { 
    color: #a4a4a4;
 }
 
