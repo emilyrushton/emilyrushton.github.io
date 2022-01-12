@@ -34,7 +34,7 @@ h1 span {
    z-index: 1
 }
 
-.timeline-content:last-child {
+.timeline-container:last-child {
    margin-bottom: 0px;
 }
 
@@ -48,7 +48,7 @@ h1 span {
    -moz-box-pack: justify;
    justify-content: space-between;
    clear: both;
-   padding-bottom: 15px;
+   margin-bottom: 25px;
 }
 
 .timeline-block-right {
