@@ -128,6 +128,11 @@ h1 span {
   clear: both;
 }
 
-ul {
-  list-style-position: outside;
+ul {  
+    list-style: none; 
+    width: 200px; 
+    text-indent: -20px; /* key property */
+    margin-left: 20px; /* key property */
+    
 }
+li { margin-bottom: 10px; }
