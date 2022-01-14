@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Technical writer, leader, and user advocate focused on software documentation
+  footer_tagline: Technical communicator, leader, and user advocate focused in the software industry
 
 hero_settings:
   overlay_opacity: 0.8
