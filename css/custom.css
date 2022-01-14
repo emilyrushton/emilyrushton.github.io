@@ -127,3 +127,7 @@ h1 span {
   display: table;
   clear: both;
 }
+
+ul {
+  list-style-position: outside;
+}
