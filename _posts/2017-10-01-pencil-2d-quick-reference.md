@@ -1,7 +1,7 @@
 ---
 title: 'Quick Reference Guide'
 date: 2017-10-01 00:00:00
-description: Example of a visual Quick Reference Guide written for non-technical users, authored using Microsoft Word.
+description: Example of a visual Quick Reference Guide written for users, authored using Microsoft Word.
 featured_image: '/images/quick-reference-image.png'
 ---
 
@@ -17,7 +17,7 @@ Click the following button to download the file:
 
 ## Audience
 
-Non-technical users are the target audience for this guide. 
+Users are the target audience for this guide. 
 
 ## Tools Used 
 
