@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Feel free to drop me an email!
+subtitle: Drop me a line in this contact form to get in touch
 featured_image: /images/demo/contact.jpg
 ---
 
