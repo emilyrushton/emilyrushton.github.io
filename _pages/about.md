@@ -1,32 +1,159 @@
 ---
-title: About me
+title: Resume
 subtitle: Personal is the perfect theme for developers, designers and other creatives.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
-
-We've packed Personal full of powerful features to help showcase your work:
-
-* Beautiful, minimal design
-* Large header image and single column post layout 
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels testing a super super long sentence to break on new line 
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<div>
+   <h2>Technical Skills</h2>
+   <div class="row">
+      <div class="column">
+         <h3>Tools</h3>
+         <ul>
+            <li>Git Source Control (GitLab and GitHub)</li>
+            <li>Docker</li>
+            <li>Jekyll</li>
+            <li>SDL Tridion Docs</li>
+            <li>XMetaL Author</li>
+            <li>Adobe Framemaker</li>
+            <li>Wordpress</li>
+            <li>Camtasia</li>
+            <li>Saola Animate</li>
+         </ul>
+      </div>
+      <div class="column">
+         <h3>Languages</h3>
+         <ul>
+            <li>HTML/CSS</li>
+            <li>DITA XML</li>
+            <li>Javascript</li>
+            <li>Liquid</li>
+            <li>YAML</li>
+            <li>JSON</li>
+         </ul>
+      </div>
+   </div>
+</div>
+<hr>
+<div>
+   <h2>Experience</h2>
+   <h3>Veeva Systems</h3>
+   <p style="margin-bottom: 15px;" class="date">Mar 2019–Present</p>
+   <div class="timeline-container">
+      <div class="timeline-block" style="margin-bottom: 25px">
+         <div class="marker"></div>
+         <div class="timeline-content">
+            <h4>Technical Writer Lead</h4>
+            <span class="date">Apr 2020–Present</span>
+            <ul>
+               <li>Leads content development and publishing for monthly releases in an Agile software team</li>
+               <li>Improves product UX by editing user interface messages and labels</li>
+               <li>Hired, trained, and manages a team of tech writers</li>
+               <li>Automated online help publishing by implementing GitLab CI/CD with a Docker container</li>
+               <li>Developed an internal Confluence wiki for tech writing team, including style guides and how to use authoring tools</li>
+               <li style="margin-bottom: 0px;">Started a committee for planning social events for the product team</li>
+            </ul>
+         </div>
+      </div>
+      <div class="timeline-block">
+         <div class="marker"></div>
+         <div class="timeline-content">
+            <h4>Technical Writer</h4>
+            <span class="date">Mar 2019–Apr 2020</span>
+            <ul>
+               <li>Developed comprehensive user help, admin help, and release notes for launch of new cloud-based product</li>
+               <li>Built online help website using Jekyll, GitLab, and AWS hosting</li>
+               <li>Developed content reuse model for single-sourcing repetitive content</li>
+               <li style="margin-bottom: 0px;">Hired and mentored tech writing co-op students</li>
+            </ul>
+         </div>
+      </div>
+   </div>
+   <h3>Dell EMC</h3>
+   <p style="margin-bottom: 15px;" class="date">Jul 2015–Mar 2019</p>
+   <div class="timeline-container">
+      <div class="timeline-block" style="margin-bottom: 25px">
+         <div class="marker"></div>
+         <div class="timeline-content">
+            <h4>Technical Content Developer II</h4>
+            <span class="date">Sep 2017–Mar 2019</span>
+            <ul>
+               <li>Delivered documentation for multiple products with concurrent release schedules in an Agile environment</li>
+               <li>Acted as a local DITA XML architect, helping team resolve structured authoring issues and performing standards-reviews of documentation</li>
+               <li>Executed significant reorganizations of user guides, including auditing and cleaning-up redundant and outdated content</li>
+               <li>Lead role in Dell EMC Burlington culture team, planning social events and volunteer days</li>
+               <li style="margin-bottom: 0px;">Member of Health & Safety Committee</li>
+            </ul>
+         </div>
+      </div>
+      <div class="timeline-block">
+         <div class="marker"></div>
+         <div class="timeline-content">
+            <h4>Technical Content Developer I</h4>
+            <span class="date">Jul 2015–Sep 2017</span>
+            <ul>
+               <li>Worked with engineering in both Waterfall and Agile environments to prepare documentation for end-user activities</li>
+               <li>Assisted senior writers with copy-editing and restructuring user guides for better readability</li>
+               <li>Improved SEO practices by developing SEO guidelines for tech writing team</li>
+               <li style="margin-bottom: 0px;">Assisted in creating and editing software product documentation, including installation, operation and maintenance instructions and other technical publications, in a variety of media</li>
+            </ul>
+         </div>
+      </div>
+   </div>
+</div>
+<h3>LawyersOrme</h3>
+<p style="margin-bottom: 15px;" class="date">Jun 2014–Jul 2015</p>
+<div class="timeline-container">
+   <div class="timeline-block" style="margin-bottom: 25px">
+      <div class="marker"></div>
+      <div class="timeline-content">
+         <h4>Legal Assistant</h4>
+         <ul>
+            <li>Individually met with clients to draft legal documents, including applications, affidavits, separation agreements, and financial statements</li>
+            <li>Performed service and filing of documents and disclosure</li>
+            <li>Drafted and managed correspondence</li>
+            <li>Tracked detailed time records for Legal Aid billing</li>
+            <li>Prepared invoices and billed Legal Aid and retainer accounts</li>
+            <li>Managed the reception desk</li>
+            <li style="margin-bottom: 0px;">Scheduled a senior lawyer’s calendar</li>
+         </ul>
+      </div>
+   </div>
+</div>
+<h3>RankHigher.ca</h3>
+<p style="margin-bottom: 15px;" class="date">Jun 2012–Aug 2012 | May 2013–Aug 2013</p>
+<div class="timeline-container">
+   <div class="timeline-block" style="margin-bottom: 25px">
+      <div class="marker"></div>
+      <div class="timeline-content">
+         <h4>SEO Copywriter Intern</h4>
+         <ul>
+            <li>Wrote search engine optimized content for a variety of clients’ websites and industries</li>
+            <li>Maintained open communication with clients for revisions</li>
+            <li>Wrote internal promotional copy such as website content, press releases, blog  postings, and film scripts</li>
+            <li>Managed professional social media accounts</li>
+            <li>Prepared business proposals and RFP bids</li>
+            <li style="margin-bottom: 0px;">Wrote a successful RFP bid, winning a contract with the Government of Canada</li>
+         </ul>
+      </div>
+   </div>
+</div>
+<hr>
+<div>
+   <h2>Education</i></h2>
+   <h3>Northeastern University</h3>
+   <p class="date">Sep 2015–Dec 2017</p>
+   <p>Master of Science: Technical Communication, Computer Industry Writing Concentration</p>
+   <h3>University of Waterloo</h3>
+   <p class="date">Sep 2010–Apr 2014</p>
+   <p>Bachelor of Arts: Honours English Language and Literature</p>
+</div>
+<hr>
+<div>
+   <h2>Volunteering</h2>
+   <h3>Shelter Movers: Lead Mover</h3>
+   <p class="date">Nov 2020–Present</p>
+   <p><a href="https://www.sheltermovers.com/">Shelter Movers</a> is a national, volunteer-powered charitable organization providing moving and storage services at no cost to women and children fleeing abuse.</p>
+   <p>As a lead mover, I lead the move team on the day of the move while being the main point of contact with the client and Shelter Movers coordinators.</p>
+</div>
