@@ -40,17 +40,5 @@ Both users and administrators are the target viewers for this animation.
 			<td>Soala Animate</td>
 			<td>HTML5 animation tool</td>
 		</tr>
-		<tr>
-			<td>Jekyll</td>
-			<td>Static site generator</td>
-		</tr>
-		<tr>
-			<td>GitLab</td>
-			<td>Content Management System</td>
-		</tr>
-		<tr>
-			<td>Sublime Text</td>
-			<td>Code and Text Editor</td>
-		</tr>
 	</tbody>
 </table>
