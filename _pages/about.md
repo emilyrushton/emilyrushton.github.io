@@ -1,7 +1,7 @@
 ---
 title: Resume
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: See the experience and technical skills I've gathered during my career as a technical communicator.
+description: See the experience and technical skills I've gathered during my career as a technical communicator.
 featured_image: /images/demo/about.jpg
 ---
 
