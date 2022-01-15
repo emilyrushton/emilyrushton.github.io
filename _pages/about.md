@@ -10,12 +10,12 @@ featured_image: /images/demo/about.jpg
 We've packed Personal full of powerful features to help showcase your work:
 
 * Beautiful, minimal design
-* Large header image and single column post layout
+* Large header image and single column post layout 
 * Responsive – works perfectly on all devices
 * Portfolio post type
 * Blog with pagination
 * Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
+* Unique 'gallery' feature for image grids and carousels testing a super super long sentence to break on new line 
 * Built-in contact form with Formspree integration
 * Full markdown support and code highlighting
 * Social media icons
