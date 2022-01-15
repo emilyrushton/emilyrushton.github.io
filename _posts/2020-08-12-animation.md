@@ -1,5 +1,5 @@
 ---
-title: 'Animation'
+title: 'Technical Animation'
 date: 2021-12-14 00:00:00
 description: Sample of an animation I prepared to illustrate the steps in a technical process, using Saola Animate.
 featured_image: '/images/animation-sample.png'
