@@ -1,6 +1,5 @@
 ---
 title: 'User Guide'
-date: 2017-12-01 00:00:00
 description: Sample of a PDF User Guide, authored using Adobe Framemaker structured authoring.
 featured_image: '/images/audacity-user-guide.png'
 ---

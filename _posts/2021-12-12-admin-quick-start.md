@@ -1,6 +1,5 @@
 ---
 title: 'Admin Quick Start Guide'
-date: 2021-12-14 00:00:00
 description: Sample of an online Quick Start Guide written for administrators using a static site generator (Jekyll) and Markdown/HTML.
 featured_image: '/images/first-steps-for-admins.png'
 ---

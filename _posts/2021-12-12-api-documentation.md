@@ -1,6 +1,5 @@
 ---
 title: 'API Reference'
-date: 2021-12-14 00:00:00
 description: Sample of an API Reference Guide written for developers using a static site generator (Middleman) and Markdown.
 featured_image: '/images/api-reference-image.png'
 ---

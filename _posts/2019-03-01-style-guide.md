@@ -1,6 +1,5 @@
 ---
 title: 'Error Message and UI Writing Style Guide'
-date: 2018-10-01 00:00:00
 description: Sample of a style guide I prepared for team members involved in writing or editing error message and UI text.
 featured_image: '/images/error-message-style-guide.png'
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Quick Reference Guide'
-date: 2017-10-01 00:00:00
 description: Sample of a visual Quick Reference Guide written for users, authored using Microsoft Word.
 featured_image: '/images/quick-reference-image.png'
 ---
