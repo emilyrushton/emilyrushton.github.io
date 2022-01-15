@@ -5,8 +5,6 @@ description: API Reference Example
 featured_image: '/images/api-reference-image.png'
 ---
 
-![](/images/api-reference-image.png)
-
 ## About
 
 As the

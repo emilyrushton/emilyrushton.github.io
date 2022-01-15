@@ -5,8 +5,6 @@ description: Dell EMC Data Protection Central 18.2 Security Configuration Guide
 featured_image: '/images/security-config-image.png'
 ---
 
-![](/images/security-config-image.png)
-
 ## About
 
 Dell EMC Data Protection Central (DPC) is a web-based monitoring application where IT administrators can view dashboards and KPIs to monitor backup and recovery operations in their data center. This writing sample is the <em>Data Protection Central 18.2 Security Configuration Guide</em>. 
