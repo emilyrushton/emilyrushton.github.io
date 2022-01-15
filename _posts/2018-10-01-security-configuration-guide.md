@@ -15,7 +15,7 @@ This guide was written for one of the products I was responsible during my time 
 
 This guide was published as a PDF. Click the following button to download the file:
 
-<a href="/uploads/Data Protection Central 18.2 Security Configuration Guide.pdf" class="button button--large">Download File</a>
+<a href="/uploads/Data Protection Central 18.2 Security Configuration Guide.pdf" class="button button--large">Download File <i class="fas fa-download"></i></a>
 
 ## Audience
 

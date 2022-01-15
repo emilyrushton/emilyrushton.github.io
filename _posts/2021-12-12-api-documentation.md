@@ -13,7 +13,7 @@ This writing sample is an <em>API Reference</em> guide for API integrations of t
 
 I wrote the **Safety** section of the API Reference on the following webpage:
 
-<a href="https://developer.veevavault.com/api/22.1/#safety" target="_blank" class="button button--large">API Reference</a>
+<a href="https://developer.veevavault.com/api/22.1/#safety" target="_blank" class="button button--large">API Reference <i class="fas fa-external-link-alt"></i></a>
 
 ## Audience
 
