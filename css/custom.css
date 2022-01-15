@@ -64,6 +64,16 @@ h1 span {
    padding: 0 15px;
 }
 
+.timeline-content ul {
+margin-left: 25px;
+}
+
+
+.timeline-content li {
+list-style-position: inside;
+text-indent: -26px;
+}
+
 .timeline-content span {
    font-size: 20px;
 }
@@ -126,9 +136,4 @@ h1 span {
   content: "";
   display: table;
   clear: both;
-}
-
-li {
-list-style-position: inside;
-text-indent: -1em;
 }
