@@ -2,7 +2,7 @@
 title: Resume
 subtitle: See the experience and technical skills I've gathered during my career as a technical communicator.
 description: See the experience and technical skills I've gathered during my career as a technical communicator.
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/headshot2.jpg
 ---
 
 <div>
