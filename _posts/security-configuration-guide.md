@@ -1,6 +1,6 @@
 ---
 title: 'Security Configuration Guide'
-date: 2018-01-10
+date: 2018-01-10 00:00:00
 description: Dell EMC Data Protection Central 18.2 Security Configuration Guide
 featured_image: '/images/security-config-image.png'
 ---
