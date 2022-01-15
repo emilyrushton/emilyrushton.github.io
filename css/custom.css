@@ -127,3 +127,8 @@ h1 span {
   display: table;
   clear: both;
 }
+
+li {
+list-style-position: inside;
+text-indent: -1em;
+}
