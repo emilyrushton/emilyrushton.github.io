@@ -141,7 +141,7 @@ featured_image: /images/demo/about.jpg
 </div>
 <hr>
 <div>
-   <h2>Education</i></h2>
+   <h2>Education</h2>
    <h3>Northeastern University</h3>
    <p class="date">Sep 2015–Dec 2017</p>
    <p>Master of Science: Technical Communication, Computer Industry Writing Concentration</p>
