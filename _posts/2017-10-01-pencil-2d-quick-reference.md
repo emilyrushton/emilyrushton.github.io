@@ -7,7 +7,7 @@ featured_image: '/images/quick-reference-image.png'
 
 ## About
 
-This writing sample is a visual <em>Quick Reference Guide</em> prepared for an open source software, Pencil2D, for a course in my Masters of Science program.
+This writing sample is a visual <em>Quick Reference Guide</em> for an open source software, Pencil2D, prepared as an assignment for a course in my Masters of Science program.
 
 ## File Download (PDF)
 
