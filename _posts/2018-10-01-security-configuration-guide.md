@@ -1,7 +1,7 @@
 ---
 title: 'Security Configuration Guide'
 date: 2018-10-01 00:00:00
-description: Example of a PDF Security Configuration Guide written for administrators using DITA XML topic-based authoring.
+description: Sample of a PDF Security Configuration Guide written for administrators using DITA XML topic-based authoring.
 featured_image: '/images/security-config-image.png'
 ---
 
