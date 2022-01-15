@@ -8,14 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Resume'
+    - title: 'Home'
       url: '/'
-    - title: 'Samples'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Resume'
+      url: '/resume/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 footer_settings:
   footer_tagline: Technical communicator, leader, and user advocate focused in the software industry
