@@ -2,11 +2,12 @@
 title: 'Admin Quick Start Guide'
 date: 2021-12-14 00:00:00
 description: Sample of an online Quick Start Guide written for administrators using a static site generator (Jekyll) and Markdown/HTML.
+featured_image: '/images/first-steps-for-admins.png'
 ---
 
 ## About
 
-This writing sample is an <em>Quick Start Guide</em> for administrators getting started with the software I work on at Veeva Systems. 
+This writing sample is a <em>Quick Start Guide</em> for administrators getting started with the software I work on at Veeva Systems. 
 
 I designed this article with interactive accordions to allow readers to expand/hide the content they need while skipping topics they don't as they set up the system. All of the content on this page is single-sourced from larger admin articles on each topic, which are linked to in the <em>Read More</em> links. 
 
