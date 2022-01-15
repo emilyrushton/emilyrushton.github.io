@@ -1,6 +1,6 @@
 ---
 title: 'API Reference'
-subtitle: 'Developer Documentation'
+subtitle: 'Online Developer Documentation'
 description: Sample of an API Reference Guide written for developers using a static site generator (Middleman) and Markdown.
 featured_image: '/images/api-reference-image.png'
 ---
