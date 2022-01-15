@@ -1,15 +1,15 @@
 ---
 title: 'Security Configuration Guide'
 date: 2018-01-10 00:00:00
-description: Dell EMC Data Protection Central 18.2 Security Configuration Guide
+description: Example of a PDF Security Configuration Guide written for administrators using DITA XML topic-based authoring.
 featured_image: '/images/security-config-image.png'
 ---
 
 ## About
 
-Dell EMC Data Protection Central (DPC) is a web-based monitoring application where IT administrators can view dashboards and KPIs to monitor backup and recovery operations in their data center. This writing sample is the <em>Data Protection Central 18.2 Security Configuration Guide</em>. 
+This writing sample is a <em>Security Configuration Guide</em> for a web-based monitoring application for backup and recovery operations in a data center. 
 
-DPC was one of the products I was responsible during my time as a Technical Content Developer II at Dell EMC. This project was one of my most challenging assignments, one of which I am particularly proud of. It required a lot of research to understand LDAP (Lightweight Directory Access Protocol) and a many discussions with engineering. 
+This guide was written for one of the products I was responsible during my time as a Technical Content Developer II at Dell EMC. This project was one of my most challenging assignments, one of which I am particularly proud of. It required a lot of research to understand LDAP (Lightweight Directory Access Protocol) and many discussions with engineering to complete this guide. 
 
 ## File Download (PDF)
 
@@ -19,7 +19,7 @@ This guide was published as a PDF. Click the following button to download the fi
 
 ## Audience
 
-This guide is written for administrators.
+Administrators are the target audience.
 
 ## Tools Used 
 

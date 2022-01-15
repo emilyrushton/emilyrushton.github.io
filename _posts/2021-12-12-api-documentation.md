@@ -1,23 +1,23 @@
 ---
 title: 'API Reference'
 date: 2021-01-12 00:00:00
-description: API Reference Example 
+description: Example 
 featured_image: '/images/api-reference-image.png'
 ---
 
 ## About
 
-As the
+This writing sample is an <em>API Reference</em> guide for API integrations of the software I work on at Veeva Systems. I tested each part of the API as part of developing this guide to verify the instructions and gather the API request and response samples. 
 
 ## API Help Link
 
 I wrote the **Safety** section of the API Reference on the following webpage:
 
-<a href="https://developer.veevavault.com/api/22.1/#safety">Vault API Reference</a>
+<a href="https://developer.veevavault.com/api/22.1/#safety" target="_blank" class="button button--large">API Reference</a>
 
 ## Audience
 
-This API reference is written for developers
+Developers are the target audience for this guide. 
 
 ## Tools Used 
 
