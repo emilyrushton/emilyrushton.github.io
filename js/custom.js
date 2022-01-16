@@ -1,16 +1,14 @@
-/* js/external.js */
-//<![CDATA[
 window.onload = typewriterintro();
 
 function typewriterintro() {
-	var i = 0;
-	var txt = 'I0x27m a technical communicator;'
-	var speed = 25;
+var i = 0;
+var txt = "I'm a technical communicator.;";
+var speed = 25;
   if (i < txt.length) {
     document.getElementById("intro").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
-    firstbutton.style.display = 'block';
+    firstbutton.style.display = "block";
   }
 }
 
@@ -64,4 +62,3 @@ par4.onclick = function(){
 }
 
 });
-//]]>
