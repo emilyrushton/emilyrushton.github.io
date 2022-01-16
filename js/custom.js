@@ -12,8 +12,8 @@ var speed = 25;
     document.getElementById("intro").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typewriterintro, speed);
-    firstbutton.style.display = "block";
   }
+    firstbutton.style.display = "block";
 }
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 25;
