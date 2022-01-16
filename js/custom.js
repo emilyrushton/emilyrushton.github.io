@@ -13,7 +13,6 @@ var speed = 25;
     i++;
     setTimeout(typewriterintro, speed);
   }
-    firstbutton.style.display = "block";
 }
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 25;
