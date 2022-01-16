@@ -6,14 +6,17 @@ var thirdbutton = document.getElementById('par4');
 
 function typewriterintro() {
 var i = 0;
-var txt = "I am a technical communicator.;";
+var txt = 'I am a technical communicator.';
 var speed = 25;
+
+function typeWriter() {
   if (i < txt.length) {
-    document.getElementById("intro").innerHTML += txt.charAt(i);
+    document.getElementById("demo").innerHTML += txt.charAt(i);
     i++;
-    setTimeout(typewriterintro, speed);
+    setTimeout(typeWriter, speed);
   }
 }
+
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 25;
   var t = this, r;
