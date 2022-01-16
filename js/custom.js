@@ -4,17 +4,15 @@ window.onload = typewriterintro();
 
 function typewriterintro() {
 	var i = 0;
-	var txt = 'I'm a technical communicator;
+	var txt = 'I0x27m a technical communicator;'
 	var speed = 25;
-
-function typeWriter() {
   if (i < txt.length) {
     document.getElementById("intro").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
+    firstbutton.style.display = 'block';
   }
 }
-	}
 
 var doc, bod, I, TypeMaker; // for use on other loads
 addEventListener('load', function(){
@@ -45,12 +43,7 @@ var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
-window.onload = function(){
-  typer.type('I’m a technical communicator.');
-  firstbutton.style.display = 'block';
-  secondbutton.style.display = 'none';
-  thirdbutton.style.display = 'none';
-}
+
 par2.onclick = function(){
   typer.type('I develop content to help people understand complex technologies.');
   firstbutton.style.display = 'none';
