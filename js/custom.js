@@ -2,7 +2,7 @@ window.onload = typewriterintro();
 
 function typewriterintro() {
 var i = 0;
-var txt = "I'm a technical communicator.;";
+var txt = "I am a technical communicator.;";
 var speed = 25;
   if (i < txt.length) {
     document.getElementById("intro").innerHTML += txt.charAt(i);
