@@ -39,7 +39,7 @@ featured_image:
 <div>
    <h2>Experience</h2>
    <h3>Veeva Systems</h3>
-   <p><a href="https://www.veeva.com/" target="_blank"><i class="fas fa-link"></i>https://www.veeva.com/</a></p>
+   <p><a href="https://www.veeva.com/" target="_blank"><i class="fas fa-link"></i> https://www.veeva.com/</a></p>
    <p style="margin-bottom: 15px;" class="date">Mar 2019–Present</p>
    <div class="timeline-container">
       <div class="timeline-block" style="margin-bottom: 25px">
@@ -72,7 +72,7 @@ featured_image:
       </div>
    </div>
    <h3>Dell EMC</h3>
-   <p><a href="https://www.delltechnologies.com/" target="_blank"><i class="fas fa-link"></i>https://www.delltechnologies.com/</a></p>
+   <p><a href="https://www.delltechnologies.com/" target="_blank"><i class="fas fa-link"></i> https://www.delltechnologies.com/</a></p>
    <p style="margin-bottom: 15px;" class="date">Jul 2015–Mar 2019</p>
    <div class="timeline-container">
       <div class="timeline-block" style="margin-bottom: 25px">
@@ -163,8 +163,8 @@ featured_image:
    <p>2089 - Managing People: Essentials</p>
    <p><a href="https://micro-credential.learn.utoronto.ca/check/49F11A91527DB23F6FCA151824513DBD688729181DED44EDC03DE690B91FAA14RnhRd0podXgvb3pWL3NHYXhhaVdwdmpURnIzTy9Dc0NUSGVyTnM0TDVodUFqUkNW" target="_blank"><i class="fas fa-link"></i>Micro-Credential</a></p>
    <h3>Society for Technical Communication</h3>
-   <p class="date">Sep 2010–Apr 2014</p>
-   <p>Bachelor of Arts: Honours English Language and Literature</p>
+   <p class="date"></p>
+   <p></p>
 </div>
 <hr>
 <div>
