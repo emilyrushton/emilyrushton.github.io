@@ -2,7 +2,7 @@
 title: 'User Guide'
 subtitle: 'PDF'
 description: Sample of a PDF User Guide, authored using Adobe Framemaker structured authoring.
-featured_image: '/images/audacity-user-guide.png'
+featured_image: '/images/projects/audacity-user-guide-pretty.png'
 ---
 
 ## About

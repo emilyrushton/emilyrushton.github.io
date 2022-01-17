@@ -39,7 +39,7 @@ firstbutton.onclick = function(){
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
-  typer.type('I specialize in software systems — my professional experience includes Veeva Systems and Dell EMC');
+  typer.type('I specialize in software systems — my professional affiliations include Veeva Systems and Dell EMC');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
