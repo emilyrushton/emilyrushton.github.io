@@ -25,15 +25,16 @@ var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_tes
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
 var introtyper = new TypeMaker(I('intro'));
-
-window.onload = function(){
-  introtyper.type('I am a technical communicator.');
-};
-
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
+window.onload = function(){
+  introtyper.type('I am a technical communicator.');
+  firstbutton.style.display = 'block';
+  secondbutton.style.display = 'none';
+  thirdbutton.style.display = 'none';
+};
 firstbutton.onclick = function(){
   typer.type('I develop content to help people understand complex technologies.');
   firstbutton.style.display = 'none';
