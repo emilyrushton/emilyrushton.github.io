@@ -1,11 +1,14 @@
 window.onload = typewriterintro();
 
 function typewriterintro() {
-var i = 0;
+var num = 0;
 var txt = 'I am a technical communicator.';
 var speed = 25;
-document.getElementById("intro").innerHTML = txt;
-setTimeout(typewriterintro, speed);
+  if (num < txt.length) {
+    document.getElementById("intro").innerHTML = txt.charAt(num);
+    num++;
+    setTimeout(typewriterintro, speed);
+  }
 }
 
 TypeMaker = function(element, interval){
