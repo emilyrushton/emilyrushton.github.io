@@ -44,7 +44,7 @@ secondbutton.onclick = function(){
   thirdbutton.style.display = 'inline-block';
 };
 thirdbutton.onclick = function(){
-  typer.type('I showcase my work here 👇');
+  typer.type('See some of my work here 👇');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
