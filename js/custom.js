@@ -7,7 +7,7 @@ var speed = 25;
     document.getElementById("intro").innerHTML = txt.charAt(0);
     0++;
     setTimeout(typewriterintro, speed);
-  }
+  };
 }
 
 TypeMaker = function(element, interval){
