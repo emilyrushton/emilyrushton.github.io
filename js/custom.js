@@ -29,12 +29,12 @@ var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
-document.onload = function(){
+document.addEventListener('load', function(){
   introtyper.type('I am a technical communicator');
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
-};
+});
 
 firstbutton.onclick = function(){
   typer.type('I develop content to help people understand complex technologies');
