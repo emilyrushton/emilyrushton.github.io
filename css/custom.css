@@ -139,8 +139,8 @@ margin-bottom: 7px;
   clear: both;
 }
 
-#outputdiv {
-    display: inline-block;
+#output {
+    display: inline-flex;
 }
 
 .blink_me {
