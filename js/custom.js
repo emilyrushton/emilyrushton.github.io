@@ -29,7 +29,7 @@ var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
-window.onload = function(){
+window.addEventListener('load', function(){
   introtyper.type('I am a technical communicator');
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
