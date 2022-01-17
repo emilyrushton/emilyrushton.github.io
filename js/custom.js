@@ -1,12 +1,11 @@
 window.onload = typewriterintro();
 
 function typewriterintro() {
-var num = 0;
 var txt = 'I am a technical communicator.';
 var speed = 25;
-  if (num < txt.length) {
-    document.getElementById("intro").innerHTML = txt.charAt(num);
-    num++;
+  if (0 < txt.length) {
+    document.getElementById("intro").innerHTML = txt.charAt(0);
+    0++;
     setTimeout(typewriterintro, speed);
   }
 }
