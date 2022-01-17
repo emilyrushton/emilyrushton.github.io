@@ -2,14 +2,14 @@
 title: 'Security Configuration Guide'
 subtitle: 'PDF'
 description: Sample of a PDF Security Configuration Guide written for IT administrators using DITA XML topic-based authoring.
-featured_image: '/images/security-config-image.png'
+featured_image: '/images/projects/security-config-guide-pretty.png'
 ---
 
 ## About
 
 This writing sample is a <em>Security Configuration Guide</em> for a web-based monitoring application for backup and recovery operations in a data center. 
 
-This guide was written for one of the products I was responsible during my time as a Technical Content Developer II at Dell EMC. This project was one of my most challenging assignments, one of which I am particularly proud of. It required a lot of research to understand LDAP (Lightweight Directory Access Protocol) and many discussions with engineering to complete this guide. 
+This guide was written for one of the products I was responsible during my time as a Technical Content Developer II at Dell EMC. 
 
 ## File Download (PDF)
 
