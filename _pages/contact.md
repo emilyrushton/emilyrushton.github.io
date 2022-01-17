@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: Let's chat! Drop me a line to get in touch.
-featured_image: /images/demo/contact.jpg
+featured_image:
 ---
 
 {% include contact-form.html %}
