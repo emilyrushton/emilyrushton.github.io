@@ -1,7 +1,7 @@
 ---
 title: Resume
-subtitle: See the experience and technical skills I've gathered during my career as a technical communicator.
-description: See the experience and technical skills I've gathered during my career as a technical communicator.
+subtitle: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Tech writing gives me that challenge, while I get to dedicate my career to helping others learn too. 
+description: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Tech writing gives me that challenge, while I get to dedicate my career to helping others learn too. 
 featured_image:
 ---
 
