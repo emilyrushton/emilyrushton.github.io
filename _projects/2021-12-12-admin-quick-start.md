@@ -1,5 +1,5 @@
 ---
-title: 'Admin Quick Start Guide'
+title: 'Quick Start Guide'
 subtitle: 'Online Help'
 description: Sample of an online Quick Start Guide written for administrators using a static site generator (Jekyll) and Markdown/HTML.
 featured_image: '/images/projects/first-steps-for-admins-pretty.png'
