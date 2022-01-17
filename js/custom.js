@@ -15,18 +15,15 @@ TypeMaker = function(element, interval){
   };
 };
 
-I = function(id){
-  return doc.getElementById(id);
-};
-var introtyper = new TypeMaker(I('output'));
-introtyper.type('I am a technical communicator');
-
 var doc, bod, I, TypeMaker; // for use on other loads
 addEventListener('load', function(){
 doc = document; bod = doc.body;
 I = function(id){
   return doc.getElementById(id);
 };
+var introtyper = new TypeMaker(I('output'));
+introtyper.type('I am a technical communicator');
+
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
