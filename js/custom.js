@@ -30,19 +30,19 @@ var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
 window.onload = function(){
-  introtyper.type('I am a technical communicator.');
+  introtyper.type('I am a technical communicator');
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
 };
 firstbutton.onclick = function(){
-  typer.type('I develop content to help people understand complex technologies.');
+  typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
-  typer.type('I’ve worked nearly 7 years’ in the software industry, with companies such as Dell EMC and Veeva Systems.');
+  typer.type('I’ve worked nearly 7 years’ in the software industry, with companies such as Dell EMC and Veeva Systems');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
