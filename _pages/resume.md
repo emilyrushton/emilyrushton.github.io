@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Technical writing gives me that challenge, while I get to help others learn too. 
+subtitle: I love learning new technologies and finding creative ways to explain technical concepts to my audience. I've worked as a technical writer in the software industry for nearly 7 years' experience, with a demonstrated history of success and progression. I currently work at Veeva systems, where I balance managing a small tech writing team and writing new content for each release cycle. 
 featured_image:
 ---
 
