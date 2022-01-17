@@ -63,5 +63,4 @@ thirdbutton.onclick = function(){
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
 };
-
 });
