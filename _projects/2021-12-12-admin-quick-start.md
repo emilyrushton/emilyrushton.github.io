@@ -2,7 +2,7 @@
 title: 'Admin Quick Start Guide'
 subtitle: 'Online Help'
 description: Sample of an online Quick Start Guide written for administrators using a static site generator (Jekyll) and Markdown/HTML.
-featured_image: '/images/first-steps-for-admins.png'
+featured_image: '/images/projects/first-steps-for-admins-pretty.png'
 ---
 
 ## About
