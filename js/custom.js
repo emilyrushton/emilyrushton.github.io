@@ -15,6 +15,9 @@ TypeMaker = function(element, interval){
   };
 };
 
+var introtyper = new TypeMaker(I('output'));
+introtyper.type('I am a technical communicator');
+
 var doc, bod, I, TypeMaker; // for use on other loads
 addEventListener('load', function(){
 doc = document; bod = doc.body;
@@ -24,13 +27,10 @@ I = function(id){
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
-var introtyper = new TypeMaker(I('output'));
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
-  
-introtyper.type('I am a technical communicator');
 
 firstbutton.onclick = function(){
   typer.type('I develop content to help people understand complex technologies');
