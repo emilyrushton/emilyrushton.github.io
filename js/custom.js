@@ -30,25 +30,25 @@ var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
 window.addEventListener('load', function(){
-  introtyper.type('I am a technical communicator');
+  introtyper.type('Emily is a technical communicator');
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
 };
 firstbutton.onclick = function(){
-  typer.type('I develop content to help people understand complex technologies');
+  typer.type('She develops content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
-  typer.type('I’ve worked nearly 7 years’ in the software industry, with companies such as Dell EMC and Veeva Systems');
+  typer.type('coming soon...');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
 };
 thirdbutton.onclick = function(){
-  typer.type('Every day is an opportunity to get better. My ideal job is one where I am challenged and learn every day. Tech writing gives me that challenge, while I get to dedicate my career to helping others learn too.');
+  typer.type('coming soon ...');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
