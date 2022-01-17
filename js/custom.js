@@ -1,16 +1,3 @@
-window.onload = typewriterintro();
-
-function typewriterintro() {
-var txt = 'I am a technical communicator.';
-var speed = 25;
-  var e = 0;
-  if (e < txt.length) {
-    document.getElementById("intro").innerHTML = txt.charAt(e);
-    e++;
-    setTimeout(typewriterintro, speed);
-  }
-}
-
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 25;
   var t = this, r;
@@ -37,6 +24,12 @@ I = function(id){
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
+
+var introtyper = new TypeMaker(I('intro')),
+
+window.onload = function() {
+	introtyper.type('I  am a technical communicator');
+}
 
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
