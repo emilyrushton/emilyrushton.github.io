@@ -4,11 +4,8 @@ function typewriterintro() {
 var i = 0;
 var txt = 'I am a technical communicator.';
 var speed = 25;
-  if (i < txt.length) {
-    document.getElementById("intro").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typewriterintro, speed);
-  }
+document.getElementById("intro").innerHTML = txt;
+setTimeout(typewriterintro, speed);
 }
 
 TypeMaker = function(element, interval){
