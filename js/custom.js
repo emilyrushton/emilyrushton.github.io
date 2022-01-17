@@ -34,7 +34,7 @@ window.addEventListener('load', function(){
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
-};
+});
 firstbutton.onclick = function(){
   typer.type('She develops content to help people understand complex technologies');
   firstbutton.style.display = 'none';
