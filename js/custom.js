@@ -16,6 +16,7 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+}
 
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 25;
