@@ -138,3 +138,18 @@ margin-bottom: 7px;
   display: table;
   clear: both;
 }
+
+#output {
+    display: inline-block;
+    direction: rtl;
+}
+
+.blink_me {
+    animation: blinker 1.5s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
