@@ -2,7 +2,7 @@
 title: 'Technical Animation'
 subtitle: 'HTML5 Animation'
 description: Sample of an animation I prepared to illustrate the steps in a technical process, using Saola Animate.
-featured_image: '/images/animation-sample.png'
+featured_image: '/images/projects/animation-pretty.png'
 ---
 
 ## About
