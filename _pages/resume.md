@@ -102,6 +102,7 @@ featured_image:
       </div>
    </div>
 </div>
+<div id="extra-experience">
 <h3>LawyersOrme</h3>
 <p style="margin-bottom: 15px;" class="date">Jun 2014–Jul 2015</p>
 <div class="timeline-container">
@@ -138,6 +139,7 @@ featured_image:
          </ul>
       </div>
    </div>
+</div>
 </div>
 <hr>
 <div>
