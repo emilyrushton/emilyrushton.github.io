@@ -85,7 +85,7 @@ featured_image:
                <li>Acted as a local DITA XML architect, helping team resolve structured authoring issues and performing standards-reviews of documentation</li>
                <li>Executed significant reorganizations of user guides, including auditing and cleaning-up redundant and outdated content</li>
                <li>Lead role in Dell EMC Burlington culture team, planning social events and volunteer days</li>
-               <li style="margin-bottom: 0px;">Member of Health & Safety Committee</li>
+               <li style="margin-bottom: 0px;">Member of Joint Health & Safety Committee</li>
             </ul>
          </div>
       </div>
