@@ -15,6 +15,9 @@ TypeMaker = function(element, interval){
   };
 };
 
+I = function(id){
+  return doc.getElementById(id);
+};
 var introtyper = new TypeMaker(I('output'));
 introtyper.type('I am a technical communicator');
 
