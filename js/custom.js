@@ -24,28 +24,28 @@ I = function(id){
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
-var introtyper = new TypeMaker(I('intro'));
+var introtyper = new TypeMaker(I('output'));
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
 window.onload = function(){
   introtyper.type('I am a technical communicator.');
-  firstbutton.style.display = 'block';
+  firstbutton.style.display = 'auto';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
 };
 firstbutton.onclick = function(){
   typer.type('I develop content to help people understand complex technologies.');
   firstbutton.style.display = 'none';
-  secondbutton.style.display = 'block';
+  secondbutton.style.display = 'auto';
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
   typer.type('I’ve worked nearly 7 years’ in the software industry, with companies such as Dell EMC and Veeva Systems.');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
-  thirdbutton.style.display = 'block';
+  thirdbutton.style.display = 'auto';
 };
 thirdbutton.onclick = function(){
   typer.type('Every day is an opportunity to get better. My ideal job is one where I am challenged and learn every day. Tech writing gives me that challenge, while I get to dedicate my career to helping others learn too.');
