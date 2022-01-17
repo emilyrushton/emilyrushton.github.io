@@ -1,9 +1,5 @@
 window.onload = typewriterintro();
 
-var firstbutton = document.getElementById('par2');
-var secondbutton = document.getElementById('par3');
-var thirdbutton = document.getElementById('par4');
-
 function typewriterintro() {
 var i = 0;
 var txt = 'I am a technical communicator.';
@@ -41,6 +37,10 @@ I = function(id){
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
+
+var firstbutton = document.getElementById('par2');
+var secondbutton = document.getElementById('par3');
+var thirdbutton = document.getElementById('par4');
 
 firstbutton.onclick = function(){
   typer.type('I develop content to help people understand complex technologies.');
