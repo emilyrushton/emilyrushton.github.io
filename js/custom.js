@@ -49,6 +49,6 @@ thirdbutton.onclick = function(){
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
-  projectsbutton.style.marginLeft = 'none';
+  projectsbutton.style.marginLeft = '0px';
 };
 });

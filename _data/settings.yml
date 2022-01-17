@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: 'Resume'
       url: '/resume'
-    - title: 'Portfolio'
+    - title: 'Projects'
       url: '/projects'
     - title: 'Contact'
       url: '/contact'
