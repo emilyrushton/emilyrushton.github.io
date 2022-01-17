@@ -24,12 +24,11 @@ I = function(id){
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
 var testArrayL = testArray.length;
+var introtyper = new TypeMaker(I('intro'));
 
-var introtyper = new TypeMaker(I('intro')),
-
-window.onload = function() {
-	introtyper.type('I  am a technical communicator');
-}
+window.onload = function(){
+  introtyper.type('I  am a technical communicator');
+};
 
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
