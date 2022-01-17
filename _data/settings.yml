@@ -10,10 +10,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Resume'
-      url: '/resume'
     - title: 'Projects'
       url: '/projects'
+    - title: 'Resume'
+      url: '/resume'
     - title: 'Contact'
       url: '/contact'
 
