@@ -2,7 +2,7 @@
 title: 'Quick Reference Guide'
 subtitle: 'PDF'
 description: Sample of a visual Quick Reference Guide written for users, authored using Microsoft Word.
-featured_image: '/images/quick-reference-image.png'
+featured_image: '/images/projects/quick-reference-pretty.png'
 ---
 
 ## About

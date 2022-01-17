@@ -2,7 +2,7 @@
 title: 'Error Message and UI Writing Style Guide'
 subtitle: 'Wiki'
 description: Sample of a style guide I prepared for team members involved in writing or editing error message and UI text.
-featured_image: '/images/error-message-style-guide.png'
+featured_image: '/images/projects/styleguide-pretty.png'
 ---
 
 ## About
