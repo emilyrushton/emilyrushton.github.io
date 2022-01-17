@@ -1,7 +1,6 @@
 ---
 title: Resume
-subtitle: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Tech writing gives me that challenge, while I get to help others learn too.
-description: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Tech writing gives me that challenge, while I get to help others learn too. 
+description: Every day is an opportunity to get better. My ideal job is one where I am challenged and learning every day. Technical writing gives me that challenge, while I get to help others learn too. 
 featured_image:
 ---
 
