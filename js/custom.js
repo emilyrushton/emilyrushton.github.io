@@ -30,16 +30,16 @@ var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
   
-introtyper.type('I am a technical communicator ');
+introtyper.type('I am a technical communicator');
 
 firstbutton.onclick = function(){
-  typer.type('I develop content to help people understand complex technologies ');
+  typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
-  typer.type('I specialize in software systems — my past work includes Veeva Systems and Dell EMC ');
+  typer.type('I specialize in software systems — my professional experience includes Veeva Systems and Dell EMC');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
