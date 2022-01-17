@@ -7,7 +7,7 @@ var speed = 25;
   if (i < txt.length) {
     document.getElementById("intro").innerHTML += txt.charAt(i);
     i++;
-    setTimeout(typeWriter, speed);
+    setTimeout(typewriterintro, speed);
   }
 }
 
