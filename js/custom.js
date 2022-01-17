@@ -29,14 +29,14 @@ var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 
-window.addEventListener('load', function(){
-  introtyper.type('Emily is a technical communicator');
+document.addEventListener('DOMContentLoaded', function(){
+  introtyper.type('I am a technical communicator');
   firstbutton.style.display = 'inline-block';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
 });
 firstbutton.onclick = function(){
-  typer.type('She develops content to help people understand complex technologies');
+  typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
