@@ -39,6 +39,7 @@ featured_image:
 <div>
    <h2>Experience</h2>
    <h3>Veeva Systems</h3>
+   <p><a href="https://www.veeva.com/" target="_blank"><i class="fas fa-link"></i>https://www.veeva.com/</a></p>
    <p style="margin-bottom: 15px;" class="date">Mar 2019–Present</p>
    <div class="timeline-container">
       <div class="timeline-block" style="margin-bottom: 25px">
@@ -71,6 +72,7 @@ featured_image:
       </div>
    </div>
    <h3>Dell EMC</h3>
+   <p><a href="https://www.delltechnologies.com/" target="_blank"><i class="fas fa-link"></i>https://www.delltechnologies.com/</a></p>
    <p style="margin-bottom: 15px;" class="date">Jul 2015–Mar 2019</p>
    <div class="timeline-container">
       <div class="timeline-block" style="margin-bottom: 25px">
