@@ -83,12 +83,6 @@ margin-bottom: 7px;
    color: #a4a4a4;
 }
 
-.timeline-content li {
-   font-size: 18px;
-   line-height: 1.5em;
-   word-spacing: 1px;
-}
-
 
 @media screen and (max-width: 768px) {
    .timeline-container:before {
