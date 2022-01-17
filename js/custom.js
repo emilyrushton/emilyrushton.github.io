@@ -3,11 +3,12 @@ window.onload = typewriterintro();
 function typewriterintro() {
 var txt = 'I am a technical communicator.';
 var speed = 25;
-  if (0 < txt.length) {
-    document.getElementById("intro").innerHTML = txt.charAt(0);
-    0++;
+  var e = 0;
+  if (e < txt.length) {
+    document.getElementById("intro").innerHTML = txt.charAt(e);
+    e++;
     setTimeout(typewriterintro, speed);
-  };
+  }
 }
 
 TypeMaker = function(element, interval){
