@@ -27,7 +27,7 @@ var testArrayL = testArray.length;
 var introtyper = new TypeMaker(I('intro'));
 
 window.onload = function(){
-  introtyper.type('I  am a technical communicator');
+  introtyper.type('I am a technical communicator.');
 };
 
 var firstbutton = document.getElementById('par2');
