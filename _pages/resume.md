@@ -102,7 +102,9 @@ featured_image:
       </div>
    </div>
 </div>
-<div id="extra-experience">
+<a id="show" onclick="showmore()" href="#">Read more</a>
+<a id="hide" onclick="showless()" class="nodisplay" href="#">Read less</a>
+<div id="extra-experience" class="nodisplay">
 <h3>LawyersOrme</h3>
 <p style="margin-bottom: 15px;" class="date">Jun 2014–Jul 2015</p>
 <div class="timeline-container">
