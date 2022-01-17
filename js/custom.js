@@ -1,5 +1,5 @@
 TypeMaker = function(element, interval){
-  this.element = element; this.interval = interval || 40;
+  this.element = element; this.interval = interval || 50;
   var t = this, r;
   this.type = function(string){
     if(r)clearInterval(r);
