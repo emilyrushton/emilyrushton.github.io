@@ -160,12 +160,18 @@ featured_image:
 <div>
    <h2>Professional Development</h2>
    <h3>University of Toronto School of Continuing Studies</h3>
-   <p class="date">Nov 30, 2021</p>
+   <p class="date">Sep 2021–Oct 2021</p>
    <p>2089 - Managing People: Essentials</p>
    <p><a href="https://micro-credential.learn.utoronto.ca/check/49F11A91527DB23F6FCA151824513DBD688729181DED44EDC03DE690B91FAA14RnhRd0podXgvb3pWL3NHYXhhaVdwdmpURnIzTy9Dc0NUSGVyTnM0TDVodUFqUkNW" target="_blank"><i class="fas fa-link"></i> Micro-Credential</a></p>
+   <h3>Crisis Prevention Institute</h3>
+   <p class="date">Jul 16, 2021</p>
+   <p>Nonviolent Crisis Intervention Training</p>
    <h3>Society for Technical Communication</h3>
-   <p class="date"></p>
-   <p></p>
+   <p class="date">Oct 2020–Nov 2020</p>
+   <p>Crafting Memorable and Influential Presentations</p>
+   <h3>Society for Technical Communication</h3>
+   <p class="date">Aug 2019–Sep 2019</p>
+   <p>Advanced Technical Editing</p>
 </div>
 <hr>
 <div>
