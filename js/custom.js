@@ -9,7 +9,7 @@ var i = 0;
 var txt = 'I am a technical communicator.';
 var speed = 25;
   if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
+    document.getElementById("intro").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
