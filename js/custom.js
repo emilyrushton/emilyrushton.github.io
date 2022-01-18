@@ -32,19 +32,19 @@ var secondbutton = document.getElementById('par3');
 var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
 
-firstbutton.onclick = function(){
+function typeWriter2(){
   typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
 };
-secondbutton.onclick = function(){
+function typeWriter3(){
   typer.type('I specialize in software systems — with professional affiliations such as Veeva Systems and Dell EMC');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
 };
-thirdbutton.onclick = function(){
+function typeWriter4(){
   typer.type('See some of my work here 👇');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
