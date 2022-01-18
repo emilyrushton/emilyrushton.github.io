@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: I love learning new technologies and finding creative ways to explain technical concepts. I've worked as a technical writer in the software industry for nearly 7-years, with a demonstrated history of success and progression. I currently work at Veeva systems, where I balance managing a small tech writing team with writing new content for each monthly release cycle. 
+subtitle: I love learning new technologies and finding creative ways to explain technical concepts. I've worked as a technical writer in the software industry for over 6-years, with a demonstrated history of success and progression. I currently work at Veeva systems, where I balance managing a small tech writing team with writing new content for each monthly release cycle. 
 featured_image: /images/demo/demo-landscape-2.jpg
 ---
 
