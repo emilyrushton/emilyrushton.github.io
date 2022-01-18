@@ -13,6 +13,7 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <li>Git Source Control (GitLab and GitHub)</li>
             <li>Docker</li>
             <li>Jekyll</li>
+            <li>Algolia</li>
             <li>SDL Tridion Docs</li>
             <li>XMetaL Author</li>
             <li>Adobe Framemaker</li>
