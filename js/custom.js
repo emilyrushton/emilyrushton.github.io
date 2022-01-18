@@ -16,8 +16,7 @@ TypeMaker = function(element, interval){
 };
 
 var doc, bod, I, TypeMaker; // for use on other loads
-addEventListener('load', function(){
-doc = document; bod = doc.body;
+window.addEventListener('load', function(){
 I = function(id){
   return doc.getElementById(id);
 };
