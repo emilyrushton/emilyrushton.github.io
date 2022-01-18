@@ -33,7 +33,7 @@ var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
 
 firstbutton.onclick = function(){
-  document.getElementById("output").innerHTML = "";
+  document.getElementById('output').innerHTML = "";
   typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
