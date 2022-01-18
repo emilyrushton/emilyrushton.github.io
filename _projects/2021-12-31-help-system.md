@@ -7,7 +7,7 @@ featured_image: '/images/projects/help-system-pretty.png'
 
 ## About
 
-I independently built this <em>Online Help System</em> during my role at Veeva Systems. This project required me to learn front-end web development, git, and how static site generators work. I originally built this system in 2019 and it has evolved over the years with various improvements as I've become more comfortable with Javascript and web design. 
+I independently built this <em>Online Help System</em> during my role at Veeva Systems. This project required me to learn front-end web development, git, and how static site generators work while also developing the help content for a new product. I originally built this system in 2019 and it has evolved over the years with various improvements as I've become more comfortable with Javascript and web design. 
 
 ## Help Link
 
