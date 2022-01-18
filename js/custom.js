@@ -1,6 +1,8 @@
 var i = 0;
 var txt1 = 'I am a technical communicator';
 var txt2 = 'I develop content to help people understand complex technologies';
+var txt3 = 'I specialize in software systems — with professional affiliations such as Veeva Systems and Dell EMC';
+var txt4 = 'See some of my work here 👇';
 var speed = 50;
 var firstbutton = document.getElementById('par2');
 var secondbutton = document.getElementById('par3');
@@ -18,7 +20,31 @@ function typeWriter2() {
   if (i < txt2.length) {
     document.getElementById("output").innerHTML += txt2.charAt(i);
     i++;
-    setTimeout(typeWriter1, speed);
+    setTimeout(typeWriter2, speed);
+    firstbutton.style.display = 'none';
+    secondbutton.style.display = 'inline-block';
+    thirdbutton.style.display = 'none';
+  }
+}
+function typeWriter3() {
+  if (i < txt3.length) {
+    document.getElementById("output").innerHTML += txt3.charAt(i);
+    i++;
+    setTimeout(typeWriter3, speed);
+    firstbutton.style.display = 'none';
+    secondbutton.style.display = 'none';
+    thirdbutton.style.display = 'inline-block';
+  }
+}
+function typeWriter4() {
+  if (i < txt4.length) {
+    document.getElementById("output").innerHTML += txt4.charAt(i);
+    i++;
+    setTimeout(typeWriter4, speed);
+    firstbutton.style.display = 'none';
+    secondbutton.style.display = 'none';
+    thirdbutton.style.display = 'none';
+    projectsbutton.style.marginLeft = '0px';
   }
 }
 
