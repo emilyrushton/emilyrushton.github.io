@@ -37,20 +37,20 @@ function typeWriter2(){
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
-};
+}
 function typeWriter3(){
   typer.type('I specialize in software systems — with professional affiliations such as Veeva Systems and Dell EMC');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
-};
+}
 function typeWriter4(){
   typer.type('See some of my work here 👇');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
   projectsbutton.style.marginLeft = '0px';
-};
+}
 });
 
 
