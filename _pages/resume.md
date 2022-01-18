@@ -103,8 +103,8 @@ featured_image: /images/demo/demo-landscape-2.jpg
       </div>
    </div>
 </div>
-<a id="show" onclick="showmore()">Read more +</a>
-<a id="hide" onclick="showless()" class="nodisplay">Read less -</a>
+<a id="show" role="button" tab-index="0" onclick="showmore()">Read more +</a>
+<a id="hide" role="button" tab-index="0" onclick="showless()" class="nodisplay">Read less -</a>
 <div style="margin-top: 20px;" id="extra-experience" class="nodisplay">
 <h3>LawyersOrme</h3>
 <p style="margin-bottom: 15px;" class="date">Jun 2014–Jul 2015</p>
