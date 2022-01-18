@@ -150,3 +150,7 @@ margin-bottom: 7px;
 .nodisplay {
    display: none;
 }
+
+.header__title_custom {
+   font-family: Kaushan Script;
+}
