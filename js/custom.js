@@ -9,15 +9,14 @@ var projectsbutton = document.getElementById('showme');
 
 function typeWriter1() {
   if (i < txt1.length) {
-    document.getElementById("demo").innerHTML += txt1.charAt(i);
+    document.getElementById("output").innerHTML += txt1.charAt(i);
     i++;
     setTimeout(typeWriter1, speed);
   }
 }
-
 function typeWriter2() {
   if (i < txt2.length) {
-    document.getElementById("demo").innerHTML += txt2.charAt(i);
+    document.getElementById("output").innerHTML += txt2.charAt(i);
     i++;
     setTimeout(typeWriter1, speed);
   }
