@@ -10,15 +10,12 @@ var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
 
 function typeWriter1() {
-  if (i < txt1.length) {
-    document.getElementById("output").innerHTML += txt1.charAt(i);
-    i++;
+    document.getElementById("output").innerHTML = txt1
     setTimeout(typeWriter1, speed);
   }
-}
 function typeWriter2() {
   if (i < txt2.length) {
-    document.getElementById("output").innerHTML += txt2.charAt(i);
+    document.getElementById("output").innerHTML = txt2.charAt(i);
     i++;
     setTimeout(typeWriter2, speed);
     firstbutton.style.display = 'none';
