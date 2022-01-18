@@ -1,3 +1,4 @@
+function typeWriterIntro() {
 TypeMaker = function(element, interval){
   this.element = element; this.interval = interval || 50;
   var t = this, r;
@@ -52,6 +53,7 @@ thirdbutton.onclick = function(){
   projectsbutton.style.marginLeft = '0px';
 };
 });
+}
 
 function showmore() {
   var extraexperience = document.getElementById("extra-experience");
