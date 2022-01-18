@@ -19,10 +19,10 @@ var thirdbutton = document.getElementById('par4');
     document.getElementById("output").innerHTML += txt2.charAt(i);
     i++;
     setTimeout(typeWriter2, speed);
+  }
     firstbutton.style.display = 'none';
     secondbutton.style.display = 'inline-block';
     thirdbutton.style.display = 'none';
-  }
 }
 function typeWriter3() {
   var i = 0;
@@ -35,10 +35,11 @@ var thirdbutton = document.getElementById('par4');
     document.getElementById("output").innerHTML += txt3.charAt(i);
     i++;
     setTimeout(typeWriter3, speed);
+
+  }
     firstbutton.style.display = 'none';
     secondbutton.style.display = 'none';
     thirdbutton.style.display = 'inline-block';
-  }
 }
 function typeWriter4() {
   var i = 0;
@@ -52,11 +53,11 @@ var projectsbutton = document.getElementById('showme');
     document.getElementById("output").innerHTML += txt4.charAt(i);
     i++;
     setTimeout(typeWriter4, speed);
+  }
     firstbutton.style.display = 'none';
     secondbutton.style.display = 'none';
     thirdbutton.style.display = 'none';
     projectsbutton.style.marginLeft = '0px';
-  }
 }
 
 function showmore() {
