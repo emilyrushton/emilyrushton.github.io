@@ -10,9 +10,12 @@ var thirdbutton = document.getElementById('par4');
 var projectsbutton = document.getElementById('showme');
 
 function typeWriter1() {
-    document.getElementById("output").innerHTML = txt1
+  if (i < txt1.length) {
+    document.getElementById("output").innerHTML = txt1.charAt(i);
+    i++;
     setTimeout(typeWriter1, speed);
   }
+}
 function typeWriter2() {
   if (i < txt2.length) {
     document.getElementById("output").innerHTML = txt2.charAt(i);
@@ -25,7 +28,7 @@ function typeWriter2() {
 }
 function typeWriter3() {
   if (i < txt3.length) {
-    document.getElementById("output").innerHTML += txt3.charAt(i);
+    document.getElementById("output").innerHTML = txt3.charAt(i);
     i++;
     setTimeout(typeWriter3, speed);
     firstbutton.style.display = 'none';
@@ -35,7 +38,7 @@ function typeWriter3() {
 }
 function typeWriter4() {
   if (i < txt4.length) {
-    document.getElementById("output").innerHTML += txt4.charAt(i);
+    document.getElementById("output").innerHTML = txt4.charAt(i);
     i++;
     setTimeout(typeWriter4, speed);
     firstbutton.style.display = 'none';
