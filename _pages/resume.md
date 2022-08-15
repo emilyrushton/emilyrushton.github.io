@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: My passion is learning new technologies and finding creative ways to communicate technical concepts. I've worked in various product development teams in the software industry for over 7 years with a demonstrated history of success and progression. I currently work at Veeva Systems, where I manage product ops for a software team while also managing the technical writing team.  
+subtitle: For more than 7 years I've worked in various software development teams with a demonstrated history of success and progression. My passion is learning new technologies and finding creative ways to communicate difficult concepts. I currently work at Veeva Systems, where I manage product operations for a software team.  
 featured_image: /images/demo/demo-landscape-2.jpg
 ---
 

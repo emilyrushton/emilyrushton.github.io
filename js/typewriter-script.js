@@ -34,13 +34,13 @@ var projectsbutton = document.getElementById('showme');
 
 firstbutton.onclick = function(){
   document.getElementById('output').innerHTML = "";
-  typer.type('I am passionate about technology and making tech more accessible to everyone');
+  typer.type('I found a career in my two favorite things: writing and tech');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
 };
 secondbutton.onclick = function(){
-  typer.type('I specialize in software systems — with professional affiliations such as Veeva Systems and Dell EMC');
+  typer.type('I specialize in software — with career affiliations such as Veeva Systems and Dell EMC');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'inline-block';
