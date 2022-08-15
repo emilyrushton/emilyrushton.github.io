@@ -49,13 +49,13 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <h4>Manager, Product Operations</h4>
             <span class="date">Mar 2022–Present</span>
             <ul>
-               <li>Ensures each production release is validated per FDA Computer System Validation (CSV) requirements</li>
+               <li>Works cross-functionality with product and engineering leadership to ensure Agile releases are planned and executed on schedule</li>
                <li>Oversees updates to Business Requirements Documents (BRDs) for each functional change in the system</li>
-               <li>Scheduling and project management for the Product Management (PM) team</li>
+               <li>Works closely with validation lead to ensure each production release is validated per FDA Computer System Validation (CSV) requirements</li>
                <li>Manages a technical writing team and oversees scheduling and publishing activities for an Online Help system</li>
                <li>Delivers weekly customer release notifications</li>
                <li>Schedules and facilitates monthly release preview webinars</li>
-               <li style="margin-bottom: 0px;">Works cross-functionality with product and engineering leadership to ensure Agile releases are planned and executed on schedule</li>
+               <li style="margin-bottom: 0px;">Scheduling and project management for the Product Management (PM) team</li>
             </ul>
          </div>
       </div>

@@ -34,7 +34,7 @@ var projectsbutton = document.getElementById('showme');
 
 firstbutton.onclick = function(){
   document.getElementById('output').innerHTML = "";
-  typer.type('I found a career in my two favorite things: writing and tech');
+  typer.type('I found a career in my 3 favorite things: communications, people, and technology');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
