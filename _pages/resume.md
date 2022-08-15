@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: I love learning new technologies and finding creative ways to explain technical concepts. I've been a technical writer in the software industry for over 6 years with a demonstrated history of success and progression. I currently work at Veeva Systems, where I manage a small tech writing team while writing new content for monthly release cycles. 
+subtitle: My passion is learning new technologies and finding creative ways to communicate technical concepts. I've worked in various product development teams in the software industry for over 7 years with a demonstrated history of success and progression. I currently work at Veeva Systems, where I manage product ops for a software team while also managing the technical writing team.  
 featured_image: /images/demo/demo-landscape-2.jpg
 ---
 
@@ -11,6 +11,7 @@ featured_image: /images/demo/demo-landscape-2.jpg
          <h3>Tools</h3>
          <ul>
             <li>Git Source Control (GitLab and GitHub)</li>
+            <li>GitLab CI/CD</li>
             <li>Docker</li>
             <li>Jekyll</li>
             <li>Algolia</li>
@@ -19,7 +20,7 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <li>Adobe Framemaker</li>
             <li>Wordpress</li>
             <li>Camtasia</li>
-            <li>Saola Animate</li>
+            <li>Saola Animate (HTML5)</li>
          </ul>
       </div>
       <div class="column">
@@ -27,7 +28,7 @@ featured_image: /images/demo/demo-landscape-2.jpg
          <ul>
             <li>HTML/CSS</li>
             <li>DITA XML</li>
-            <li>Javascript</li>
+            <li>Javascript, jQuery</li>
             <li>Liquid</li>
             <li>YAML</li>
             <li>JSON</li>
@@ -45,11 +46,27 @@ featured_image: /images/demo/demo-landscape-2.jpg
       <div class="timeline-block" style="margin-bottom: 25px">
          <div class="marker"></div>
          <div class="timeline-content">
-            <h4>Technical Writer Lead</h4>
-            <span class="date">Apr 2020–Present</span>
+            <h4>Manager, Product Operations</h4>
+            <span class="date">Mar 2022–Present</span>
             <ul>
-               <li>Leads content development and publishing for monthly releases in an Agile software team</li>
-               <li>Improves product UX by editing user interface messages and labels</li>
+               <li>Ensures each production release is validated per FDA Computer System Validation (CSV) requirements</li>
+               <li>Oversees updates to Business Requirements Documents (BRDs) for each functional change in the system</li>
+               <li>Scheduling and project management for the Product Management (PM) team</li>
+               <li>Manages a technical writing team and oversees scheduling and publishing activities for an Online Help system</li>
+               <li>Delivers weekly customer release notifications</li>
+               <li>Schedules and facilitates monthly release preview webinars</li>
+               <li style="margin-bottom: 0px;">Works cross-functionality with product and engineering leadership to ensure Agile releases are planned and executed on schedule</li>
+            </ul>
+         </div>
+      </div>
+      <div class="timeline-block" style="margin-bottom: 25px">
+         <div class="marker"></div>
+         <div class="timeline-content">
+            <h4>Technical Writer Lead</h4>
+            <span class="date">Apr 2020–Mar 2022</span>
+            <ul>
+               <li>Lead content development and publishing for monthly releases in an Agile software team</li>
+               <li>Improved product UX by editing user interface messages and labels</li>
                <li>Hired, trained, and manages a team of tech writers</li>
                <li>Automated online help publishing by implementing GitLab CI/CD with a Docker container</li>
                <li>Developed an internal Confluence wiki for tech writing team, including style guides and how to use authoring tools</li>

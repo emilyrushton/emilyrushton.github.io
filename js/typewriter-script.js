@@ -34,7 +34,7 @@ var projectsbutton = document.getElementById('showme');
 
 firstbutton.onclick = function(){
   document.getElementById('output').innerHTML = "";
-  typer.type('I develop content to help people understand complex technologies');
+  typer.type('I am passionate about technology and making tech more accessible to everyone');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
@@ -46,7 +46,7 @@ secondbutton.onclick = function(){
   thirdbutton.style.display = 'inline-block';
 };
 thirdbutton.onclick = function(){
-  typer.type('See some of my work here 👇');
+  typer.type('Learn more about my work here 👇');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'none';
   thirdbutton.style.display = 'none';
