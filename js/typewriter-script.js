@@ -22,7 +22,7 @@ I = function(id){
   return doc.getElementById(id);
 };
 var introtyper = new TypeMaker(I('output'));
-introtyper.type('I am a technical communicator');
+introtyper.type('I am a technical writer');
 
 var typer = new TypeMaker(I('output')), single_test = I('single_test'), rand_test = I('rand_test');
 var testArray = ['The sky is blue.', 'The stove is hot.', 'The floor is wet.', 'The grass is green.', 'The water is cold.'];
@@ -34,7 +34,7 @@ var projectsbutton = document.getElementById('showme');
 
 firstbutton.onclick = function(){
   document.getElementById('output').innerHTML = "";
-  typer.type('I found a career in my 3 favorite things: communications, people, and technology');
+  typer.type('I develop content to help people understand complex technologies');
   firstbutton.style.display = 'none';
   secondbutton.style.display = 'inline-block';
   thirdbutton.style.display = 'none';
