@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: For more than 7 years I've worked in various software development teams with a demonstrated history of success and progression. My passion is learning new technologies and finding creative ways to communicate difficult concepts. I currently work at Veeva Systems, where I manage product operations for a software team.  
+subtitle: For more than 7 years I've worked in various software development teams, which is where I am happiest. I enjoy being hands-on and becoming an expert in the product I'm documenting. My passion is learning difficult concepts and finding creative ways to distill them in a way that's easy for my audience to understand. I currently work at Veeva Systems, where I manage product operations for a software team.  
 featured_image: /images/demo/demo-landscape-2.jpg
 ---
 
@@ -12,6 +12,7 @@ featured_image: /images/demo/demo-landscape-2.jpg
          <ul>
             <li>Git Source Control (GitLab and GitHub)</li>
             <li>GitLab CI/CD</li>
+            <li>Postman</li>
             <li>Docker</li>
             <li>Jekyll</li>
             <li>Algolia</li>
@@ -49,13 +50,14 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <h4>Manager, Product Operations</h4>
             <span class="date">Mar 2022–Present</span>
             <ul>
-               <li>Works cross-functionality with product and engineering leadership to ensure Agile releases are planned and executed on schedule</li>
-               <li>Oversees updates to Business Requirements Documents (BRDs) for each functional change in the system</li>
-               <li>Works closely with validation lead to ensure each production release is validated per FDA Computer System Validation (CSV) requirements</li>
-               <li>Manages a technical writing team and oversees scheduling and publishing activities for an Online Help system</li>
-               <li>Delivers weekly customer release notifications</li>
-               <li>Schedules and facilitates monthly release preview webinars</li>
-               <li style="margin-bottom: 0px;">Scheduling and project management for the Product Management (PM) team</li>
+               <li>Manage a team of technical writers, ensuring release documentation is scheduled and delivered for weekly patches and monthly releases</li>
+               <li>Manage online help system that answers questions for 2,000 monthly users, with continued growth</li>
+               <li>Deliver weekly customer release notifications</li>
+               <li>Ensure every system change is assessed for risk and translated to a clear testable requirement for validation</li>
+               <li>Work closely with validation lead to ensure each production release is validated per Computer System Validation (CSV) requirements</li>
+               <li>Manage the product team’s project milestones & deliverables throughout software development lifecycle</li>
+               <li>Facilitate release planning & design collaboration cycles between product management and engineering</li>
+               <li style="margin-bottom: 0px;">Schedule and facilitate monthly release preview webinars</li>
             </ul>
          </div>
       </div>
@@ -65,11 +67,11 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <h4>Technical Writer Lead</h4>
             <span class="date">Apr 2020–Mar 2022</span>
             <ul>
-               <li>Lead content development and publishing for monthly releases in an Agile software team</li>
+               <li>Lead content development and publishing activities for monthly Agile releases</li>
+               <li>Hired and trained a team of technical writers</li>
+               <li>Greatly reduced publishing time and effort by implementing GitLab CI/CD pipeline for automated online help updates</li>
+               <li>Developed and documented team process in an internal Confluence wiki for tech writing team, including style guides and how to use authoring tools</li>
                <li>Improved product UX by editing user interface messages and labels</li>
-               <li>Hired, trained, and manages a team of tech writers</li>
-               <li>Automated online help publishing by implementing GitLab CI/CD with a Docker container</li>
-               <li>Developed an internal Confluence wiki for tech writing team, including style guides and how to use authoring tools</li>
                <li style="margin-bottom: 0px;">Started a committee for planning social events for the product team</li>
             </ul>
          </div>
@@ -81,8 +83,9 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <span class="date">Mar 2019–Apr 2020</span>
             <ul>
                <li>Developed comprehensive user help, admin help, and release notes for launch of new cloud-based product</li>
-               <li>Built online help website using Jekyll, GitLab, and AWS hosting</li>
+               <li>Built and launched an online help website using Jekyll, GitLab, and AWS hosting</li>
                <li>Developed content reuse model for single-sourcing repetitive content</li>
+               <li>Implemented a documentation search interface using Algolia</li>
                <li style="margin-bottom: 0px;">Hired and mentored tech writing co-op students</li>
             </ul>
          </div>
@@ -98,11 +101,11 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <h4>Technical Content Developer II</h4>
             <span class="date">Sep 2017–Mar 2019</span>
             <ul>
-               <li>Delivered documentation for multiple products with concurrent release schedules in an Agile environment</li>
-               <li>Acted as a local DITA XML architect, helping team resolve structured authoring issues and performing standards-reviews of documentation</li>
-               <li>Executed significant reorganizations of user guides, including auditing and cleaning-up redundant and outdated content</li>
-               <li>Lead role in Dell EMC Burlington culture team, planning social events and volunteer days</li>
-               <li style="margin-bottom: 0px;">Member of Joint Health & Safety Committee</li>
+               <li>Delivered documentation targeted to IT administrators for multiple products with concurrent release schedules in an Agile environment</li>
+               <li>Resolved peers’ technical DITA XML issues and performed XML quality standards reviews for team members, as appointed information architect</li>
+               <li>Reduced translation costs by expanding content reuse in existing manuals and removing redundant content</li>
+               <li>Improved user interface verbiage quality by performing code reviews and editing user-facing text</li>
+               <li style="margin-bottom: 0px;">Volunteered in the Dell EMC Burlington culture team, planning social events and give-back days, and in the Joint Health & Safety Committee</li>
             </ul>
          </div>
       </div>
@@ -112,10 +115,9 @@ featured_image: /images/demo/demo-landscape-2.jpg
             <h4>Technical Content Developer I</h4>
             <span class="date">Jul 2015–Sep 2017</span>
             <ul>
-               <li>Worked with engineering in both Waterfall and Agile environments to prepare documentation for end-user activities</li>
-               <li>Assisted senior writers with copy-editing and restructuring user guides for better readability</li>
-               <li>Improved SEO practices by developing SEO guidelines for tech writing team</li>
-               <li style="margin-bottom: 0px;">Assisted in creating and editing software product documentation, including installation, operation and maintenance instructions and other technical publications, in a variety of media</li>
+               <li>Created and edited software documentation, including installation, operation and maintenance instructions</li>
+               <li>Developed a set of PDF SEO best practices to improve searchability</li>
+               <li style="margin-bottom: 0px;">Collaborated with engineering teams in both Waterfall and Agile environments to prepare documentation for end-user activities</li>
             </ul>
          </div>
       </div>
