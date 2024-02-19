@@ -1,6 +1,7 @@
 {
   "name": "emily-personal-portfolio",
   "version": "0.1.0",
+  "homepage": "https://emilyrushton.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
