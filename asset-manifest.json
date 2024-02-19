@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4caa3506.css",
+    "main.js": "/static/js/main.83d85740.js",
+    "static/js/592.d59c2abd.chunk.js": "/static/js/592.d59c2abd.chunk.js",
+    "static/media/Data-Protection-Central-18.2-Security-Configuration-Guide.pdf": "/static/media/Data-Protection-Central-18.2-Security-Configuration-Guide.c6f97861b4638d9da3b7.pdf",
+    "static/media/resume_erushtonsahlani.pdf": "/static/media/resume_erushtonsahlani.f3578ccbdfb039516cb0.pdf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.4caa3506.css.map": "/static/css/main.4caa3506.css.map",
+    "main.83d85740.js.map": "/static/js/main.83d85740.js.map",
+    "592.d59c2abd.chunk.js.map": "/static/js/592.d59c2abd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4caa3506.css",
+    "static/js/main.83d85740.js"
+  ]
+}
