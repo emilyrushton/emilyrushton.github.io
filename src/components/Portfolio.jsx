@@ -43,7 +43,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       date: "2024",
       url: {
         name: "Connect PayPal for Payouts",
-        link: "https://guide.nauticalcommerce.com/docs/users-guide/dashboard/settings/apps/paypal/",
+        link: "https://guide.nauticalcommerce.com/docs/users-guide/apps/paypal/",
       },
       thumbImage: "images/projects/paypal-guide.png",
       categories: [filters.VIDEO, filters.USER],
@@ -62,21 +62,6 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       },
       thumbImage: "images/projects/rest-api-reference.png",
       categories: [filters.DEVELOPER, filters.REFERENCE],
-    },
-    {
-      title: "Product Catalog Overview",
-      projectInfo:
-        "I authored this article to clarify the setup process for the product catalog, known for its complex structure. Alongside the article, I created comprehensive diagrams and produced an animated video, aiming to demystify the catalog's structure for new users.",
-      client: "Nautical Commerce",
-      technologies: "Docusaurus, Markdown, Camtasia, WellSaid Labs, ",
-      industry: "eCommerce",
-      date: "2022",
-      url: {
-        name: "Product Catalog Overview",
-        link: "https://guide.nauticalcommerce.com/docs/users-guide/dashboard/catalog/understand-the-product-data-model/",
-      },
-      thumbImage: "images/projects/catalog-overview.png",
-      categories: [filters.VIDEO, filters.USER],
     },
     {
       title: "Nautical GraphQL API Reference",

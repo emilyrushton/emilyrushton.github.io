@@ -30,7 +30,7 @@ const Header = ({ classicHeader, darkTheme, homeRef, handleNavClick }) => {
               />
             </span>
             <h1 className="text-5 text-white text-center mb-0 d-lg-block">
-              Emily Rushton Sahlani
+              Emily Sahlani
             </h1>
           </Link>
           {/* Logo End */}

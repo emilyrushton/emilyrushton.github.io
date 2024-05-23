@@ -19,7 +19,7 @@ const Footer = ({ classicHeader, darkTheme, handleNavClick }) => {
                   handleNavClick("home");
                 }}
               >
-                Emily Rushton Sahlani
+                Emily Sahlani
               </a>
               . All Rights Reserved.
             </p>
