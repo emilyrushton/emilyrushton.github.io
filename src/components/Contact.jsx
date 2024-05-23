@@ -105,7 +105,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-envelope" />
               </span>
-              emilyrushton12@gmail.com
+              emilysahlani@gmail.com
             </p>
             <ul
               className={
@@ -150,7 +150,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
             <form
               className={darkTheme ? "form-dark" : ""}
               id="contact-form"
-              action="php/mail.php"
+              action="https://formspree.io/f/xnqwjpbk"
               method="post"
               ref={form}
               onSubmit={sendEmail}
@@ -158,7 +158,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <div className="row g-4">
                 <div className="col-xl-6">
                   <input
-                    name="user_name"
+                    name="name"
                     type="text"
                     className="form-control"
                     required
@@ -167,7 +167,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
                 </div>
                 <div className="col-xl-6">
                   <input
-                    name="user_email"
+                    name="email"
                     type="email"
                     className="form-control"
                     required
@@ -196,7 +196,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
                       <span
                         role="status"
                         aria-hidden="true"
-                        class="spinner-border spinner-border-sm align-self-center me-2"
+                        className="spinner-border spinner-border-sm align-self-center me-2"
                       ></span>
                       Sending...
                     </>
