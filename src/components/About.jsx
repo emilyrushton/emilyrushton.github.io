@@ -36,10 +36,10 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               I'm <span className="text-primary">Emily Sahlani,</span> your all-in-one documentation specialist
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
-            I make complex software easier to understand, helping users get the most out of products. With 8+ years in the software industry, I've been a technical writer and leader for software companies ranging from startups to large enterprises. 
+            I make complex software easier to understand, helping users get the most out of products. With 9 years in the software industry, I've been a technical writer and leader for software companies ranging from startups to large enterprises.
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
-            My passion for technical documentation stems from a love of learning new technology. I dive deep into each topic, with thorough testing and exploring the source code to become an expert myself. This helps me create accurate and comprehensive content tailored to the target audience. 
+            My passion for technical documentation stems from a love of learning new technology. I dive deep into each topic, with thorough testing and exploring the source code to become an expert myself. This helps me create accurate and comprehensive content tailored to the target audience.
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
             I thrive in fast-paced environments where I can be hands-on with technology and improve documentation experiences. I've taught myself how to code to build documentation portals and automate publishing processes.
@@ -85,7 +85,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
         </div>
         {/* projects rewards counting start */}
 
-      {/* 
+      {/*
         <div
           className={
             "brands-grid separator-border mt-5 " +
@@ -153,9 +153,9 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   Get Awards
                 </p>
               </div>
-            </div>   
-          </div>  
-        </div>  
+            </div>
+          </div>
+        </div>
     */}
       </div>
     </section>
