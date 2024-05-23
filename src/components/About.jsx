@@ -1,5 +1,5 @@
 import React from "react";
-import resumeFile from "../documents/resume_erushtonsahlani.pdf";
+import resumeFile from "../documents/ESahlani_Resume.pdf";
 const AboutUs = ({ classicHeader, darkTheme }) => {
   return (
     <section id="about" className={"section " + (darkTheme ? "bg-dark-1" : "")}>
@@ -33,7 +33,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 "text-7 fw-600 mb-3 " + (darkTheme ? "text-white" : "")
               }
             >
-              I'm <span className="text-primary">Emily Rushton Sahlani,</span> your all-in-one documentation specialist
+              I'm <span className="text-primary">Emily Sahlani,</span> your all-in-one documentation specialist
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
             I make complex software easier to understand, helping users get the most out of products. With 8+ years in the software industry, I've been a technical writer and leader for software companies ranging from startups to large enterprises. 
@@ -56,17 +56,17 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 }
               >
                 <li>
-                  <span className="fw-600 me-2">Name:</span>Emily Rushton Sahlani
+                  <span className="fw-600 me-2">Name:</span>Emily Sahlani
                 </li>
                 <li>
                   <span className="fw-600 me-2">Email:</span>
-                  <a href="mailto:emilyrushton12@gmail.com">emilyrushton12@gmail.com</a>
+                  <a href="mailto:emilysahlani@gmail.com">emilysahlani@gmail.com</a>
                 </li>
                 <li>
                   <span className="fw-600 me-2">Age:</span>31
                 </li>
                 <li>
-                  <span className="fw-600 me-2">Experience:</span>8+ years
+                  <span className="fw-600 me-2">Experience:</span>9 years
                 </li>
                 <li className="border-0">
                   <span className="fw-600 me-2">From:</span>Toronto, Canada
